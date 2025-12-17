@@ -64,5 +64,3 @@ The project scripts are defined in [package.json](package.json):
 ## Files
 - Main entry: [src/main.jsx](src/main.jsx)
 - App component: [src/App.jsx](src/App.jsx)
-
-If you want, I can run the dev server for you or add a short CONTRIBUTING section.
